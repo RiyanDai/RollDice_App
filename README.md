@@ -1,6 +1,6 @@
 
 
-a simple Flutter app that randomly generates dice rolls with a clean and modern UI. 🎲✨
+a simple Flutter app that randomly generates dice rolls. 🎲✨
 
 ![image](https://github.com/user-attachments/assets/22597f20-00c1-44c7-8e99-4d072413d07b)
 
